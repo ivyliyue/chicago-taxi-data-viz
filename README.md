@@ -1,4 +1,4 @@
-# chicago-taxi-data-viz-
+# chicago-taxi-data-viz
 
 This was a course consulting project for city of Chicago to analyze Chicago Taxi data and discover latent insights to come up with strategic recommendations. 
 
